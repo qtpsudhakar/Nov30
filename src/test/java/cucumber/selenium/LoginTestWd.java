@@ -22,6 +22,7 @@ public class LoginTestWd {
 		System.out.println("Launched the chrome browser");
 		System.out.println("first change");
 		System.out.println("second change");
+		System.out.println("change from remote");
 	}
 
 	@Given("^I enter OrangeHRM Url$")
