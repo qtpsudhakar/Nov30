@@ -21,6 +21,7 @@ public class LoginTestWd {
 		driver = DriverFactory.getDriver("chrome");
 		System.out.println("Launched the chrome browser");
 		System.out.println("first change");
+		System.out.println("second change");
 	}
 
 	@Given("^I enter OrangeHRM Url$")
